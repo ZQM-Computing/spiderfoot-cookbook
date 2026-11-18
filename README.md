@@ -35,6 +35,8 @@ OSINT practitioners who automate passive collection behind a private service.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-service-deploy` | Deploying SpiderFoot as a service with a private-only firewall scope |
